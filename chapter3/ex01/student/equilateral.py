@@ -11,7 +11,7 @@ side3 = input("Enter the third side: ")
 if sides:
     print("The triangle is equilateral") 
 else:
-    print("The triangle is NOT equilateral")
+    print("The triangle is not equilateral")
 
 
 

@@ -1,0 +1,36 @@
+
+Status: FAILED!
+Reason: Unable to run encrypt.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357881019-fundamentals-of-python-3e-c30dca7d-e499-4fa7-bc28-a9208825e373/9780357881019-fundamentals-of-python-3e-c30dca7d-e499-4fa7-bc28-a9208825e373/python/chapter4/ex01/encrypt.py", line 4, in <module>
+    dhdbydbu
+NameError: name 'dhdbydbu' is not defined
+
+Timestamp: 2024-11-06 22:57:15.418553
+
+Status: FAILED!
+Reason: Unable to run encrypt.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357881019-fundamentals-of-python-3e-c30dca7d-e499-4fa7-bc28-a9208825e373/9780357881019-fundamentals-of-python-3e-c30dca7d-e499-4fa7-bc28-a9208825e373/python/chapter4/ex01/encrypt.py", line 4, in <module>
+    dhdbydbu
+NameError: name 'dhdbydbu' is not defined
+
+Timestamp: 2024-11-06 22:57:15.418649
+
+Status: FAILED!
+Reason: Unable to run encrypt.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357881019-fundamentals-of-python-3e-c30dca7d-e499-4fa7-bc28-a9208825e373/9780357881019-fundamentals-of-python-3e-c30dca7d-e499-4fa7-bc28-a9208825e373/python/chapter4/ex01/encrypt.py", line 4, in <module>
+    dhdbydbu
+NameError: name 'dhdbydbu' is not defined
+
+Timestamp: 2024-11-06 22:57:15.516428
+
+Status: FAILED!
+Reason: Unable to run encrypt.py
+Error: Traceback (most recent call last):
+  File "/home/runner/work/9780357881019-fundamentals-of-python-3e-c30dca7d-e499-4fa7-bc28-a9208825e373/9780357881019-fundamentals-of-python-3e-c30dca7d-e499-4fa7-bc28-a9208825e373/python/chapter4/ex01/encrypt.py", line 4, in <module>
+    dhdbydbu
+NameError: name 'dhdbydbu' is not defined
+
+Timestamp: 2024-11-06 22:57:15.516537
